@@ -13,5 +13,5 @@ Step-by-step tutorial of: :dart:
 
 Use of some of the booksellers offered by [GSAP](https://cdnjs.com/libraries/gsap/2.1.3): 
 
-[](https://img.shields.io/badge/TimelineMax-gsap-green)
-[](https://img.shields.io/badge/TweenMax-gsap-red)
+[TimelineMax](https://img.shields.io/badge/TimelineMax-gsap-green)
+[TweenMax](https://img.shields.io/badge/TweenMax-gsap-red)
