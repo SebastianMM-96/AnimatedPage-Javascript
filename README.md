@@ -2,12 +2,8 @@
 
 A brief example of how to animate a page using CSS and Javascript.
 
-***
-
 Step-by-step tutorial of: :dart: 
 - [developedbyed](https://github.com/developedbyed)
-
-***
 
 ## For animations
 
